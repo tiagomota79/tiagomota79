@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏼
 
 I'm Tiago. I was a marketing professional once. But before that, I was a copywriter and campaing planner. And I also dable in design. 👨🏻‍💻Now I code.
 
