@@ -16,7 +16,7 @@ My background informs my web developer persona in many ways:
 
 <img src="https://media-exp1.licdn.com/dms/image/C512DAQFIV6TquAMh5A/profile-treasury-image-shrink_1280_1280/0?e=1596571200&v=beta&t=zA5bWiA0rC3DFv8wGt4GZGWKOSHLsu2w7yr8Ki6q5M8" alt="Adventure Game" width="350px">
 
-A fun little game created in vanilla Javascript as part of a class project. [You can play it here!](https://tiagomota79.github.io/adventure-game/) On top of the code, I designed some of the assed - though most are from public available libraries. [Check the repo here.](https://github.com/tiagomota79/adventure-game)
+A fun little game created in vanilla Javascript as part of a class project. [You can play it here!](https://tiagomota79.github.io/adventure-game/) On top of the code, I designed some of the assets - though most are from public available libraries. [Check the repo here.](https://github.com/tiagomota79/adventure-game)
 
 
 **Thrifty Movies**
