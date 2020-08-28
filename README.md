@@ -14,21 +14,21 @@ My background informs my web developer persona in many ways:
 
 **Adventure Game**
 
-<img src="https://media-exp1.licdn.com/dms/image/C512DAQFIV6TquAMh5A/profile-treasury-image-shrink_1280_1280/0?e=1596571200&v=beta&t=zA5bWiA0rC3DFv8wGt4GZGWKOSHLsu2w7yr8Ki6q5M8" alt="Adventure Game" width="350px">
+![screenshot](adv-game.jpeg)
 
 A fun little game created in vanilla Javascript as part of a class project. [You can play it here!](https://tiagomota79.github.io/adventure-game/) On top of the code, I designed some of the assets - though most are from public available libraries. [Check the repo here.](https://github.com/tiagomota79/adventure-game)
 
 
 **Thrifty Movies**
 
-<img src="https://media-exp1.licdn.com/dms/image/C512DAQHr5cyENU13VA/profile-treasury-image-shrink_1280_1280/0?e=1596571200&v=beta&t=XDreG5-hJRDO_ItAt0bS8g5x5lQpW3s4M8Nv5yGWUmw" alt="Thrifty Movies" width="350px">
+![screenshot](thrifty-movies.jpeg)
 
 This used-movies-focused marketplace was developed using Javascript, React, React-Redux, React-Router on an Express server with Multer, and styled with Styled Components. It allows users to upload images for the movies they would like to sell, filling a user-friendly form to create a new item to sell. [Check the repo here.](gitbub.com/tiagomota79/thrifty-movies)
 
 
 **Quebec Covid-19 tracker**
 
-<img src="https://media-exp1.licdn.com/dms/image/C4E2DAQFN6chq55roCg/profile-treasury-image-shrink_1920_1920/0?e=1596571200&v=beta&t=XNT8Wrzr1T47BN5A51ftHszjvT6CeoOD8XtHI83Bk4s" alt="Quebec Covid-19 Tracker" width="350px">
+![screenshot](qccovid19tracker.jpeg)
 
 A two-part simple app [(live here!)](https://qc-covid19-tracker.herokuapp.com) to track the evolution of the Covid-19 in Quebec in a infographic interface. Information is scraped from the government website and stored in a MongoDB database. [Check the scraper repo here,](https://github.com/tiagomota79/qc-covid19-scraper) and the [tracker repo here.](https://github.com/tiagomota79/qc-covid19-tracker)
 
