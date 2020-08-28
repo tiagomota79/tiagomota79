@@ -14,7 +14,7 @@ My background informs my web developer persona in many ways:
 
 **Adventure Game**
 
-![screenshot](adv-game.jpeg)
+![screenshot](adv-game.jpeg =250x)
 
 A fun little game created in vanilla Javascript as part of a class project. [You can play it here!](https://tiagomota79.github.io/adventure-game/) On top of the code, I designed some of the assets - though most are from public available libraries. [Check the repo here.](https://github.com/tiagomota79/adventure-game)
 
