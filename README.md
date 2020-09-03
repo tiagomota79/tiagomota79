@@ -14,21 +14,21 @@ My background informs my web developer persona in many ways:
 
 **Adventure Game**
 
-<img src="adv-game.jpeg" alt="adventure game" width="350"/>
+<img src="https://github.com/tiagomota79/tiagomota79/raw/master/adv-game.jpeg" alt="adventure game" width="350"/>
 
 A fun little game created in vanilla Javascript as part of a class project. [You can play it here!](https://tiagomota79.github.io/adventure-game/) On top of the code, I designed some of the assets - though most are from public available libraries. [Check the repo here.](https://github.com/tiagomota79/adventure-game)
 
 
 **Thrifty Movies**
 
-<img src="thrifty-movies.jpeg" alt="Thrifty Movies" width="350"/>
+<img src="https://github.com/tiagomota79/tiagomota79/raw/master/thrifty-movies.jpeg" alt="Thrifty Movies" width="350"/>
 
 This used-movies-focused marketplace was developed using Javascript, React, React-Redux, React-Router on an Express server with Multer, and styled with Styled Components. It allows users to upload images for the movies they would like to sell, filling a user-friendly form to create a new item to sell. [Check the repo here.](gitbub.com/tiagomota79/thrifty-movies)
 
 
 **Quebec Covid-19 tracker**
 
-<img src="qccovid19tracker.jpeg" alt="Quebec Covid-19 Tracker" width="350"/>
+<img src="https://github.com/tiagomota79/tiagomota79/raw/master/qccovid19tracker.jpeg" alt="Quebec Covid-19 Tracker" width="350"/>
 
 A two-part simple app [(live here!)](https://qc-covid19-tracker.herokuapp.com) to track the evolution of the Covid-19 in Quebec in a infographic interface. Information is scraped from the government website and stored in a MongoDB database. [Check the scraper repo here,](https://github.com/tiagomota79/qc-covid19-scraper) and the [tracker repo here.](https://github.com/tiagomota79/qc-covid19-tracker)
 
