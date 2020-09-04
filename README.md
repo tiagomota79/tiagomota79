@@ -2,7 +2,7 @@
 
 I'm Tiago. I was a marketing professional once. But before that, I was a copywriter and campaing planner. And I also dable in design. 👨🏻‍💻Now I code.
 
-**🔎 Looking for a job!**
+**~~🔎 Looking for a job!~~** 🤓 Found it!
 
 My background informs my web developer persona in many ways:
 - 🖥️ I value greatly a good UI and UX.
