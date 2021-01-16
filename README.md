@@ -30,7 +30,8 @@ This used-movies-focused marketplace was developed using Javascript, React, Reac
 
 <img src="https://github.com/tiagomota79/tiagomota79/raw/master/qccovid19tracker.jpeg" alt="Quebec Covid-19 Tracker" width="350"/>
 
-A two-part simple app [(live here!)](https://qc-covid19-tracker.herokuapp.com) to track the evolution of the Covid-19 in Quebec in a infographic interface. Information is scraped from the government website and stored in a MongoDB database. [Check the scraper repo here,](https://github.com/tiagomota79/qc-covid19-scraper) and the [tracker repo here.](https://github.com/tiagomota79/qc-covid19-tracker)
+A two-part simple app to track the evolution of the Covid-19 in Quebec in a infographic interface. Information is scraped from the government website and stored in a MongoDB database. [Check the scraper repo here,](https://github.com/tiagomota79/qc-covid19-scraper) and the [tracker repo here.](https://github.com/tiagomota79/qc-covid19-tracker)
+*Due to changes in Quebec's COVID-19 page, the scraper is no longer functional.
 
 ### Find me here
 💼 [Linkedin](https://www.linkedin.com/in/tiagomot/)
