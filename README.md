@@ -23,7 +23,7 @@ A fun little game created in vanilla Javascript as part of a class project. [You
 
 <img src="https://github.com/tiagomota79/tiagomota79/raw/master/thrifty-movies.jpeg" alt="Thrifty Movies" width="350"/>
 
-This used-movies-focused marketplace was developed using Javascript, React, React-Redux, React-Router on an Express server with Multer, and styled with Styled Components. It allows users to upload images for the movies they would like to sell, filling a user-friendly form to create a new item to sell. [Check the repo here.](gitbub.com/tiagomota79/thrifty-movies)
+This used-movies-focused marketplace was developed using Javascript, React, React-Redux, React-Router on an Express server with Multer, and styled with Styled Components. It allows users to upload images for the movies they would like to sell, filling a user-friendly form to create a new item to sell. [Check the repo here.](https://github.com/tiagomota79/thrifty-movies)
 
 
 **Quebec Covid-19 tracker**
